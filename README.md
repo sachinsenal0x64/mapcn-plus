@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>mapcn-svelte</h1>
+  <h1>mapcn-plus</h1>
   <p><strong>Beautiful maps, made simple.</strong></p>
 
   <p>
